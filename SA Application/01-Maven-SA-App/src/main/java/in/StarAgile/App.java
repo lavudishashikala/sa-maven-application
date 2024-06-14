@@ -1,7 +1,7 @@
 package in.StarAgile;
 
 /**
- * Hello world!
+ * Welcome to testing phase!
  *
  */
 public class App 
